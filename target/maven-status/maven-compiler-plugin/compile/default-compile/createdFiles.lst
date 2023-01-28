@@ -1,0 +1,14 @@
+pl\camp\micro\car\rent\authentication\Authenticator.class
+pl\camp\micro\car\rent\authentication\IAuthenticator.class
+pl\camp\micro\car\rent\database\CarRepository.class
+pl\camp\micro\car\rent\database\ICarRepository.class
+pl\camp\micro\car\rent\Core.class
+pl\camp\micro\car\rent\gui\GUI.class
+pl\camp\micro\car\rent\App.class
+pl\camp\micro\car\rent\database\IUserRepository.class
+pl\camp\micro\car\rent\Test.class
+pl\camp\micro\car\rent\database\CarRepository2.class
+pl\camp\micro\car\rent\database\UserRepository.class
+pl\camp\micro\car\rent\model\User.class
+pl\camp\micro\car\rent\gui\IGUI.class
+pl\camp\micro\car\rent\model\Car.class
